@@ -1,0 +1,4 @@
+trigger: none #pipeline m change code ko show krta h
+
+pool:
+  vmimage name: ubantu
